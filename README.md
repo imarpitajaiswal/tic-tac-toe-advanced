@@ -11,7 +11,7 @@ An interactive Tic-Tac-Toe game featuring real-time score tracking and persisten
 ## 🛠 Tech Stack
 | Category | Technology |
 | :--- | :--- |
-| **Language** | Python (3.x) |
+| **Language** | Python (3.14) |
 | **GUI** | `tkinter` |
 | **Data Persistence** | `pickle` (Object serialization) |
 
